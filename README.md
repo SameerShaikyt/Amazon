@@ -1,1 +1,1 @@
-# Amazon Clone
+# Amazon Clone - E-commerce Web Page Replication
